@@ -1,0 +1,12 @@
+.container{
+    height: 300px;
+    width: 700px;
+    background-color: rgba(210, 208, 208, 0.918);
+    text-align: center;
+    padding: 50px;
+    margin-top: 100px;
+    margin-left: 600px;
+}
+img{
+    border-radius: 100px;
+}
